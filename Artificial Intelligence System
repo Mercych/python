@@ -1,0 +1,6 @@
+ name=input("Enter the name: ")
+ cname=input("Enter the creator name: ")
+ p=input("Enter the purpose: ")
+ memory=input("Enter the memory size: ")
+ speed=input("Enter the speed: ")
+ print("My Details:\nI am "+name+" , created by "+cname+", for the purpose of "+p+".\nMemory I consume is around "+memory+" and my speed is "+speed+" GHZ.")
